@@ -1,0 +1,10 @@
+[{"_id":1,"orderId":"2622189389","userId":"3ad8d03a-4271-4461-bc8e-d5e0df6935be","products":"Celkon C399","orderDate":"11/4/2024","totalAmount":68175,"status":"pending"},
+{"_id":2,"orderId":"3401980955","userId":"b83b35c4-29ba-4012-ab34-2c70b8f4f063","products":"Samsung Galaxy J7 Pro","orderDate":"3/7/2025","totalAmount":71300,"status":"shipped"},
+{"_id":3,"orderId":"8727962431","userId":"6604f719-3f9e-48bc-b735-047a3eb69298","products":"Sony Tablet P 3G","orderDate":"6/2/2024","totalAmount":93632,"status":"delivered"},
+{"_id":4,"orderId":"8210129775","userId":"ba6e47e6-11d5-42e4-9dad-25df36b2c55d","products":"vivo Z3i","orderDate":"2/9/2025","totalAmount":94042,"status":"processing"},
+{"_id":5,"orderId":"4669497227","userId":"4f66da51-4a35-4236-81e5-f1490e372e05","products":"Nokia 3555","orderDate":"12/12/2024","totalAmount":63118,"status":"delayed"},
+{"_id":6,"orderId":"1288447701","userId":"bcb628ba-8c05-4153-804f-7827790172a7","products":"Meizu M2","orderDate":"6/28/2024","totalAmount":20701,"status":"completed"},
+{"_id":7,"orderId":"4759094741","userId":"4daf3b36-1a12-4c05-9cc5-1c776cd2a137","products":"Yezz Bonito YZ500","orderDate":"11/1/2024","totalAmount":37512,"status":"in transit"},
+{"_id":8,"orderId":"3227726394","userId":"bf3ec8ee-9aa4-4acc-8cee-ca00e0d6d0a8","products":"Google Pixel C","orderDate":"12/15/2024","totalAmount":27850,"status":"on hold"},
+{"_id":9,"orderId":"2560258137","userId":"910d52eb-cc5e-4b51-a268-7be00ed77f4a","products":"BLU Samba TV","orderDate":"6/24/2024","totalAmount":27476,"status":"cancelled"},
+{"_id":10,"orderId":"2684744386","userId":"4c699639-2f0f-4ac8-b265-2e56e1d3cb03","products":"Lava Z60s","orderDate":"1/13/2025","totalAmount":45993,"status":"returned"}]
