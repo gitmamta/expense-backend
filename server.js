@@ -8,7 +8,7 @@ const cors = require("cors");
 app.use(express.json());
 
 app.use(cors({
-  origin:"https://expense-mamta7.vercel.app"
+  origin:"https://expense-six-bay.vercel.app"
 }));
 
 const Expense = require("./model/expense");
