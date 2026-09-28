@@ -6,9 +6,11 @@ const app = express();
 const mongoose = require("mongoose");
 const cors = require("cors");
 app.use(express.json());
+
 app.use(cors({
-  origin:"https://expense-1igg.vercel.app/"
+  origin:"https://expense-six-bay.vercel.app/"
 }));
+
 const Expense = require("./model/expense");
 const User = require("./model/user");
 
@@ -17,9 +19,9 @@ mongoose
   .then(() => console.log("Mongo db server connected"))
   .catch((err) => console.log("mongo db connection error", err));
 
-// app.get("/", (req, res) => {
-//   res.send("API is running");
-// });
+app.get("/", (req, res) => {
+  res.send("API is running");
+});
 
 //login
 
